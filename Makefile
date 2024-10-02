@@ -3,4 +3,4 @@ asst6: asst6.c
 
 
 clean:
-				rm asst6 heap_output.txt
+				rm asst6 output.txt
